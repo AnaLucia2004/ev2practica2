@@ -1,0 +1,14 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.fila {
+    display: flex;
+    justify-content: space-between;
+}
